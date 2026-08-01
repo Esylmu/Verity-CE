@@ -1,6 +1,7 @@
 # Verity-CE
 
 Verity 模组社区版 | 支持自定义 AI API、TTS/STT 配置、多版本适配。原版 by ThatMobb，社区维护版。
+官方文档与下载渠道仅为 GitHub Release 页面，其他第三方网站（如 verity-mod.com）为社区贡献，请注意甄别
 
 ## 原版状态
 
@@ -43,4 +44,4 @@ ttsBaseUrl = "https://tts.example.com"
 ttsModel = "zh-CN-XiaoxiaoNeural"
 
 
-#官方文档与下载渠道仅为 GitHub Release 页面，其他第三方网站（如 verity-mod.com）为社区贡献，请注意甄别
+
