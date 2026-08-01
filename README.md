@@ -42,4 +42,5 @@ modelName = "gpt-4o"
 ttsBaseUrl = "https://tts.example.com"
 ttsModel = "zh-CN-XiaoxiaoNeural"
 
-官方文档与下载渠道仅为 GitHub Release 页面，其他第三方网站（如 verity-mod.com）为社区贡献，请注意甄别
+
+#官方文档与下载渠道仅为 GitHub Release 页面，其他第三方网站（如 verity-mod.com）为社区贡献，请注意甄别
