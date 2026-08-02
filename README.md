@@ -1,7 +1,7 @@
 # Verity-CE
 
 Verity 模组社区版 | 支持自定义 AI API、TTS/STT 配置、多版本适配。原版 by ThatMobb，社区维护版。
-官方文档与下载渠道仅为 GitHub Release 页面，其他第三方网站（如 verity-mod.com）为社区贡献，请注意甄别
+官方文档与下载渠道仅为 GitHub Release 页面，其他第三方网站（如 verity-mod.com）为社区贡献，请注意甄别(🎉 感谢社区成员 zhongyao 搭建的 verity-mod.com 文档站，为新手提供安装指南与 Wiki 支持！)
 
 ## 原版状态
 
